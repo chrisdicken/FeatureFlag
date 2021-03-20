@@ -4,7 +4,7 @@ Written in JupyterLab using Python 3
 
 Please view code on Github: https://github.com/chrisdicken/FeatureFlag/blob/main/FeatureFlag.ipynb
 
-Code includes examples of Feature Flags both on and off. 
+Code includes examples where the Feature Flag is turned on and turned off.
 
 # Implementation
 
