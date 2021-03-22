@@ -2,7 +2,7 @@
 
 Written in JupyterLab using Python 3
 
-Please view code on nbviewer if github can't load the code: https://nbviewer.jupyter.org/github/chrisdicken/FeatureFlag/blob/main/FeatureFlag.ipynb
+Please view code on nbviewer if github has an error: https://nbviewer.jupyter.org/github/chrisdicken/FeatureFlag/blob/main/FeatureFlag.ipynb
 
 Code includes examples where the Feature Flag is turned on and turned off.
 
